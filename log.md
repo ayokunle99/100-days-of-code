@@ -1,13 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: December 44, 2020
-##### (delete me or comment me out)
+### Day 0: January 11, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Reviewing Python fundamentals using "Python is easy steps" by Mike McGrath
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Good start, should finish fundamentals tomorrow Did a bit of coding practises of these basics. Day 0 --> Progress!
 
 ### Day 0:  December 45, 2020
 ##### (delete me or comment me out)
