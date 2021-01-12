@@ -6,14 +6,11 @@
 
 **Thoughts:** Good start, should finish fundamentals tomorrow Did a bit of coding practises of these basics. Day 0 --> Progress!
 
-### Day 0:  December 45, 2020
-##### (delete me or comment me out)
+### Day 0: January 12, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Continued from where I stopped yesterday re:Reviewing Python fundamentals using "Python is easy steps" by Mike McGrath. Also stumbled on Corey Schafer's Youtube channel where he breaks python concepts down in an incredible fashion. Finished conditionals, functions and error handling today.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts:Spent >2hrs today instead of 1hr planned but found it enjoyable as I get into harder concepts.
 
 
 ### Day 1: June 27, Monday
