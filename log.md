@@ -6,7 +6,7 @@
 
 **Thoughts:** Good start, should finish fundamentals tomorrow Did a bit of coding practises of these basics. Day 0 --> Progress!
 
-### Day 0: January 12, 2021
+### Day 1: January 12, 2021
 
 **Today's Progress**: Continued from where I stopped yesterday re:Reviewing Python fundamentals using "Python is easy steps" by Mike McGrath. Also stumbled on Corey Schafer's Youtube channel where he breaks python concepts down in an incredible fashion. Finished conditionals, functions and error handling today.
 
