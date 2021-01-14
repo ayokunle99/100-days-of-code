@@ -13,12 +13,18 @@
 **Thoughts:Spent >2hrs today instead of 1hr planned but found it enjoyable as I get into harder concepts.
 
 
-### Day 1: January 13, 2021
+### Day 2: January 13, 2021
 
 **Today's Progress**: Didn't really want to do anything today but did it anyway! Halfway through "Python is easy steps" by Mike McGrath. difficulty level increasing but mostly stuff I had known before. Enjoyed string manipulation, modules etc. Still making errors in referring to entities with the right name such as methods, functions etc. Good progress though. Looking forward to finishing the book so I can start coding for cloud.
 
 **Thoughts:Spent >3hrs today, need to setup a timer to limit to 1hr, didn't get to work on other stuff on my plate.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+#**Link(s) to work**
+#1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+#2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 3: January 14, 2021
+
+**Today's Progress**: Finished Chapter 6 & 7 : Managing Strings and Programming Objects respectively. Found Classes | methods | attributes etc to be easier than last attempt at learning these concepts Didn't do much coding practice, today was a slow day :(
+
+**Thoughts:Spent >1hr today,  still need to setup a timer to limit to 1hr.
