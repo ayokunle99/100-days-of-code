@@ -13,11 +13,11 @@
 **Thoughts:Spent >2hrs today instead of 1hr planned but found it enjoyable as I get into harder concepts.
 
 
-### Day 1: June 27, Monday
+### Day 1: January 13, 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Didn't really want to do anything today but did it anyway! Halfway through "Python is easy steps" by Mike McGrath. difficulty level increasing but mostly stuff I had known before. Enjoyed string manipulation, modules etc. Still making errors in referring to entities with the right name such as methods, functions etc. Good progress though. Looking forward to finishing the book so I can start coding for cloud.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts:Spent >3hrs today, need to setup a timer to limit to 1hr, didn't get to work on other stuff on my plate.
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
