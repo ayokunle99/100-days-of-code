@@ -28,3 +28,9 @@
 **Today's Progress**: Finished Chapter 6 & 7 : Managing Strings and Programming Objects respectively. Found Classes | methods | attributes etc to be easier than last attempt at learning these concepts Didn't do much coding practice, today was a slow day :(
 
 **Thoughts:Spent >1hr today,  still need to setup a timer to limit to 1hr.
+
+### Day 6: January 18, 2021
+
+**Today's Progress**: Started on Python for DevOps book yesterday, practised through chapters 1 & 2. Spending a lot of time on REGEX as it's messing with my brain cells. 
+
+**Thoughts:Spent >1hr today,  still need to setup a timer to limit to 1hr.
