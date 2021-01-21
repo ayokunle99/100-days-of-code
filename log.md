@@ -40,3 +40,11 @@
 **Today's Progress**: Still on Python for DevOps book, most of the tasks in the book use ipython so can't put up in github. Learn't about modules such as os, sys and also about subprocesses. The use of "if __name__ == __main__ :" code block is something I have seen in my codes but go to understand it's use today.  
 
 **Thoughts: see above.+
+### Day 8: January 21, 2021
+
+**Today's Progress**: Functions
+
+
+**Thoughts: After moving ahead with the Python for DevOps books, into chapter 4, i quickly realized I have gone ahead of myself. There are still fundamentals that I need to take care of. So I have switched to using Oreilly's Pearson Python training videos and these come with tasks at the end of each section so I am forced to do exercises on my own now. 
+
+
