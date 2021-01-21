@@ -34,3 +34,9 @@
 **Today's Progress**: Started on Python for DevOps book yesterday, practised through chapters 1 & 2. Spending a lot of time on REGEX as it's messing with my brain cells. 
 
 **Thoughts:Spent >1hr today,  still need to setup a timer to limit to 1hr.
+
+### Day 7: January 20, 2021
+
+**Today's Progress**: Still on Python for DevOps book, most of the tasks in the book use ipython so can't put up in github. Learn't about modules such as os, sys and also about subprocesses. The use of "if __name__ == __main__ :" code block is something I have seen in my codes but go to understand it's use today.  
+
+**Thoughts: see above.+
